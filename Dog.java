@@ -9,7 +9,8 @@ public class Dog {
 	}
 
 	public void bark(int amountOfBarks){
-		System.out.println("Wowhhh... ");
+		for(int i=0; i<amountOfBarks; i=i+1)
+			System.out.println("Wowhhh... ");
 	}
 
 

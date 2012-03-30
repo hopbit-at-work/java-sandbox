@@ -37,6 +37,7 @@ public class SharpenAPencilP030 {
 		// myDog object
 		while(x>3) {
 			myDog.play();
+			x = x - 1;
 		}	
 	}
 }
