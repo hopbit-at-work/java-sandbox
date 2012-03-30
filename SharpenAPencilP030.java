@@ -1,6 +1,4 @@
-
-
-public class SharpenAPencil030 {
+public class SharpenAPencilP030 {
 
 	public static void main(String args[]){
 		
