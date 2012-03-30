@@ -1,6 +1,19 @@
 public class Dog {
 
-	public static void main(String args[]){
-		// CODE
+	private String name;
+	private int size;
+
+	public Dog(String name, int size){
+		this.name = name;
+		this.size = size;
+	}
+
+	public void bark(int amountOfBarks){
+		System.out.println("Wowhhh... ");
+	}
+
+
+	public void play(){
+		System.out.println(name + " is frisking"); 
 	}
 }
