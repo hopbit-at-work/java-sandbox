@@ -4,3 +4,4 @@ javac P030SharpenAPencil.java
 javac MyNotSoFirstJavaApp.java
 javac P034WhatCanBePlacedInMainMethod.java
 javac P035SimpleLogicTests.java
+javac P036WhileLoopExamples.java
