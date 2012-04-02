@@ -1,6 +1,6 @@
 #javac -verbose Party.java
 javac Party.java
-javac SharpenAPencilP030.java
+javac P030SharpenAPencil.java
 javac MyNotSoFirstJavaApp.java
-javac Page034WhatCanBePlacedInMainMethod.java
-javac Page035SimpleLogicTests.java
+javac P034WhatCanBePlacedInMainMethod.java
+javac P035SimpleLogicTests.java
