@@ -11,3 +11,4 @@ javac P037DooBee.java
 javac P038PiosenkaOPiwie.java
 javac P040Krasomowca.java
 javac P041ProgramKrasomowczy.java
+javac P044MagnesikiZKodem.java
