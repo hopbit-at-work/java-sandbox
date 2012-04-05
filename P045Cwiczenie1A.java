@@ -6,6 +6,7 @@ public class P045Cwiczenie1A {
 			if(x>3){
 				System.out.println("Wielkie X");
 			}
+			x=x+1;
 		}
 	}
 }
