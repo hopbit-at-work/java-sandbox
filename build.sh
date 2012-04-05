@@ -10,3 +10,4 @@ javac P037TestIf2.java
 javac P037DooBee.java
 javac P038PiosenkaOPiwie.java
 javac P040Krasomowca.java
+javac P041ProgramKrasomowczy.java
