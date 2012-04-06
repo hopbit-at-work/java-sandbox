@@ -1,6 +1,6 @@
 public class Template {
 
-	public static void main(String args[]){
-		// CODE
-	}
+  public static void main(String args[]){
+    // CODE
+  }
 }

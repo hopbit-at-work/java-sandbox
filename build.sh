@@ -13,4 +13,5 @@
 #javac P041ProgramKrasomowczy.java
 #javac P044MagnesikiZKodem.java
 #javac P045Cwiczenie1A.java
-javac P045Cwiczenie1B.java
+#javac P045Cwiczenie1B.java
+javac P045Cwiczenie1C.java
