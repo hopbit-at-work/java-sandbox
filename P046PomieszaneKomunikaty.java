@@ -1,15 +1,18 @@
-public class Template {
+public class P046PomieszaneKomunikaty {
 
   public static void main(String args[]){
     int x=0;
     int y=0;
     while(x<5){
-      // tutaj powinienem wstawic bloki kodu 
-      // tak, żeby pasowały do 'wymaganych' 
-      // wynikow
       
-      // 1. x=x-y;
-      // 2. y = y+x;
+      y=x-y; // 00 11 21 32 42
+      System.out.print(x+""+y+" ");
+      x=x+1;
+    }
+    //System.out.println("");
+    //while(x<5){
+    //  y = y+x;
+    //}
       //
       // 3. y=y+2;
       //    if(y>4){
@@ -36,8 +39,5 @@ public class Template {
       //    g. 00 11 23 36 410
       //    h. 02 14 25 36 47 
 
-      System.out.println(x+""+y+" ");
-      x=x+1;
-    }
   }
 }
