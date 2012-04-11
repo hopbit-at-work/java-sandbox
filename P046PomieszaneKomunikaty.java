@@ -37,19 +37,20 @@ public class P046PomieszaneKomunikaty {
       x=x+1;
     }
     System.out.println("");
-/*
+
     x=0;y=0;
-    while(y<5){
+    while(x<5){
       if(y<5){
         x=x+1;
         if(y<3){
           x=x-1;
         }
       }
-      System.out.print(x+""+y+" "); // 
+      y=y+2;
+      System.out.print(x+""+y+" "); // 02 14 36 48 
       x=x+1;
     }
-    System.out.println("");*/
+    System.out.println("");
 
   }
 }
