@@ -1,4 +1,4 @@
-public class Dog {
+public class P031Pies {
 
 	private String name;
 	private int size;
