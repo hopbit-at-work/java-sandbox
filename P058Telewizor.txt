@@ -1,0 +1,12 @@
+klasa: 
+	Telewizor;
+skladowe:
+	listaStacji
+	stacja
+	glosnosc
+metody:
+	wybierzStacje()
+	nastepnyKanal()
+	poprzedniKanal()
+	zwiekszGlosnosc()
+	zmniejszGlosnosc()
