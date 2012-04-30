@@ -1,0 +1,10 @@
+klasa
+  Alarm
+skladowe: // wie, stan
+  alarmCzas
+  alarmTryb
+metody: // dzialanie, wykonuje
+  okreslCzasAlarmu()
+  pobierzCzasAlarmu()
+  czyAlarmUstawiony()
+  wstrzymaj()
