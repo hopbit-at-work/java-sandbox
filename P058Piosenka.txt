@@ -1,0 +1,9 @@
+klasa
+  Piosenka
+skladowe: // stan, wie
+  tutul
+  piosenkarz
+metody: // dzialanie, wykonuje
+  okreslTytul()
+  okreslTworce()
+  odtworz()
