@@ -1,0 +1,10 @@
+klasa:
+  Przycisk
+skladowe: // stan, wie
+  etykieta
+  kolor
+metody: // dzialanie, wykonuje
+  okreslKolor()
+  okreslEtykiete()
+  zwolnij()
+  wcisnij()
