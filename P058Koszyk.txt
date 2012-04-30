@@ -1,0 +1,8 @@
+klasa:
+  Koszyk
+skladowe: // stan
+  zawartosc
+medody: // dzialanie
+  dodajDoKoszyka()
+  usunZKoszyka()
+  sprawdz()
