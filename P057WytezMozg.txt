@@ -1,0 +1,14 @@
+P1: Jakie sa podstawowe zagadnienia, ktore nalezy 
+	przemyslec, projektujac klasy w jezyku Java?
+
+O1: - wlasciwosci/atrybuty 
+	- metody 
+
+P2: Jakie pytania nalezy sobie przy tym zadac?
+
+O1: - Czy mozna rozbic dana klase na inne mniejsze
+	- jakie wlasciwosci i metody powinna posiadac 
+	  ta klasa
+
+P02: Gdybys mial stworzyc liste rzeczy, ktore nalezy
+	 zrobic pezy
