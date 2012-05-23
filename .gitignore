@@ -1,4 +1,6 @@
-.class
+*.class
+*.jar
+*.swp
 pragmatic-programmer-excercises/
 HelloLog4j/
 HelloAnt/
