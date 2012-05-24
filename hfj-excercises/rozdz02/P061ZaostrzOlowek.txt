@@ -1,0 +1,15 @@
+// ponizej wartosci iakie beda mialy 
+// wlasciwosci obiektow pod koniec
+// wykonania programu P061FilmTester
+pierwszy:
+	tytul: Przeminelo z hossa
+	rodzaj: Tragedia
+	ocena: -2
+drugi:
+	tytul: Matrix dla zuchwalych
+	rodzaj: Komedia
+	ocena: 5
+trzeci:
+	tytul: Byte Club
+	rodzaj: Tragedia, ale o wydzwieku optymistycznym
+	ocena: 127
