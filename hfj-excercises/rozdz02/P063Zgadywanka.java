@@ -1,6 +1,6 @@
 class Zgadywanka{
-	Gracz p1;
-	Gracz p2;
+  Gracz p1;
+  Gracz p2;
 	Gracz p3;
 
 	public void rozpocznijGre(){
