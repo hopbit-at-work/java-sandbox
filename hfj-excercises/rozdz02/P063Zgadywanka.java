@@ -60,4 +60,3 @@ class Zgadywanka{
 		} // while
 	} // rozpocznijGre
 } // class
-// comment made on osx
