@@ -1,6 +1,6 @@
 class P064StarterGry{
 	public static void main(String[] args){
-		Zgadywanka gra = new Zgadywanka();
+		P063Zgadywanka gra = new P063Zgadywanka();
 		gra.rozpocznijGre();
 	}
 }

@@ -1,13 +1,13 @@
-class Zgadywanka{
-  Gracz p1;
-  Gracz p2;
-	Gracz p3;
+class P063Zgadywanka{
+  P064Gracz p1;
+  P064Gracz p2;
+	P064Gracz p3;
 
 	public void rozpocznijGre(){
 
-		p1=new Gracz();
-		p2=new Gracz();
-		p3=new Gracz();
+		p1=new P064Gracz();
+		p2=new P064Gracz();
+		p3=new P064Gracz();
 
 		int typP1=0;
 		int typP2=0;
@@ -22,7 +22,7 @@ class Zgadywanka{
 
 		while(true){
 			
-			// System.out.println("Nalezy wytypowac liczbe: " + odgadywanaLiczba");
+			System.out.println("Nalezy wytypowac liczbe: " + odgadywanaLiczba);
 			
 			p1.zgaduj();
 			p2.zgaduj();
@@ -32,7 +32,7 @@ class Zgadywanka{
 			System.out.println("Gracz pierwszy wytypowal liczbe :"+typP1);
 
 			typP2 = p2.liczba;
-			System.out.println("Gracz drugi wytypowal liczbe :"+typPr2);
+			System.out.println("Gracz drugi wytypowal liczbe :"+typP2);
 
 			typP3 = p3.liczba;
 			System.out.println("Gracz trzeci wytypowal liczbe :"+typP1);
