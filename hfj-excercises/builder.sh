@@ -12,7 +12,7 @@ cd src
 
 #Now compile - note the use of a seperate lib (in non-dex format!)
 echo Compile the java code
-javac -verbose -cp ../libs/demolib.jar -d ../build/ org/demo/start.java 
+javac -verbose -d ../build/ hfj/r02/$1.java 
 
 #Back out
 cd ..
@@ -22,7 +22,7 @@ cd build
 
 #Now convert to dex format (need no-strict)
 echo Now convert to dex format
-dx --dex --verbose --no-strict --output=../dist/demo_console.dex.jar org
+dx --dex --verbose --no-strict --output=../dist/$1.dex.jar hfj
 
 #Back out
 cd ..

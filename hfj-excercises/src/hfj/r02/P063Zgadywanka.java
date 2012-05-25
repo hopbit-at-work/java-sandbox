@@ -1,3 +1,5 @@
+package hfj.r02;
+
 class P063Zgadywanka{
   P064Gracz p1;
   P064Gracz p2;

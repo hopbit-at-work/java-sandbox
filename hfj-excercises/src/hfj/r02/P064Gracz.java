@@ -1,3 +1,5 @@
+package hfj.r02;
+
 class P064Gracz {
 	int liczba = 0; // tu jest zapisywana typowana liczba
 
