@@ -19,8 +19,8 @@ class P063Zgadywanka{
 		boolean p2odgadl=false;
 		boolean p3odgadl=false;
 
-		int odgadywanaLiczba=(int) (Math.random()*10);
-		System.out.println("Mysle o liczbie z zakresu od 0 do 10. Zgadnij jaka to liczba");
+		int odgadywanaLiczba=P064KomoraLosujaca.losuj();
+		System.out.println("Mysle o liczbie z zakresu od 1 do 10. Zgadnij jaka to liczba");
 
 		while(true){
 			
