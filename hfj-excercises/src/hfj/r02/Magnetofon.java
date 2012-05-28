@@ -1,3 +1,4 @@
+hfj.r02;
 class Magnetofon{
 	boolean mozeNagrywac=false;
 	void odtworzTasme(){

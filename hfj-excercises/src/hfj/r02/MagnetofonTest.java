@@ -1,7 +1,8 @@
+package hfj.r02;
 class MagnetofonTest{
-	// nie skompiluje sie poniewaz 
-	// obiekt m nie zostal zainicjalizowany
+	// teraz powinno juz dzialac ok
 	public static void main(String[] args){
+		Magnetofon m = new Magnetofon();
 		m.mozeNagrywac = true;
 		m.odtworzTasme();
 		if(m.mozeNagrywac==true){
