@@ -5,7 +5,7 @@ class OdtwarzaczDVDTest {
 		o.mozeNagrywac = true;
 		o.odtworzPlyte(); // teraz powinno juz banglac tak jak trzeba
 		if(o.mozeNagrywac==true){
-			o.nagrajPlyte();
+			o.nagrajPlyteDVD();
 		}
 	}
 }
