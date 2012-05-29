@@ -1,5 +1,5 @@
-hfj.r02;
-class Magnetofon{
+package hfj.r02;
+class Magnetofon {
 	boolean mozeNagrywac=false;
 	void odtworzTasme(){
 		System.out.println("odtwarzam tasme");
