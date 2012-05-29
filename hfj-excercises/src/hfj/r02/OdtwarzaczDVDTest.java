@@ -3,7 +3,7 @@ class OdtwarzaczDVDTest {
 	public static void main(String[] args){
 		OdtwarzaczDVD o = new OdtwarzaczDVD();
 		o.mozeNagrywac = true;
-		o.odtworzPlyte(); // blad kompilacji - brak takiej metody w klasie OdtwarzaczDVD
+		o.odtworzPlyte(); // teraz powinno juz banglac tak jak trzeba
 		if(o.mozeNagrywac==true){
 			o.nagrajPlyte();
 		}
