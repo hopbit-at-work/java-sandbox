@@ -1,4 +1,9 @@
 package hfj.r02;
+/*
+ * ta wersja wypisze:
+ * 4 x siemasz
+ * i liczbe 10
+ */
 public class EchoTester{
 	public static void main(String[] args){
 		Echo e1=new Echo();
