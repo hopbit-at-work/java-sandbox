@@ -12,7 +12,7 @@ cd src
 
 #Now compile - note the use of a seperate lib (in non-dex format!)
 echo Compile the java code
-javac -verbose -d ../build/ hfj/r02/$1.java 
+javac -verbose -d ../build/ hfj/r03/$1.java 
 
 #Back out
 cd ..
