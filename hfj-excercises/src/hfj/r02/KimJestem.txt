@@ -1,0 +1,56 @@
+Klasa,
+Metoda
+Obiekt
+Skladowa
+---
+1. Jestem kompilowana na podstawie pliku .java
+
+	Klasa
+
+2. Wartosci moich skladowych, moga sie roznic od wartosci skladowych mojego brata blizniaka
+
+	Obiekt
+
+Dzialam jak wzorzec
+
+	Klasa
+
+Lubie dzialac
+
+	Metoda
+
+Moge miec wiele metod 
+
+	Klasa, Obiekt
+
+Reprezentuje stan
+
+	Obiekt, Skladowa
+
+Mam swoje dzialanie 
+
+	Metoda, Obiekt
+
+Przebywam w obiektach
+
+	Metoda, Skladowa
+
+Istnieje na stercie
+
+	Obiekt
+
+Sluze do tworzenia kopii obiektow
+
+	Klasa
+
+Moj stan moze sie zmieniac
+
+	Obiekt, Skladowa
+
+Deklaruje metody
+
+	Klasa
+
+Moge sie zmieniac w trakcie dzialania programu
+
+	Obiekt, Skladowa
