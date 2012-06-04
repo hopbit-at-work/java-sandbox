@@ -17,7 +17,7 @@ Dzialam jak wzorzec
 
 Lubie dzialac
 
-	Metoda
+	Metoda, Obiekt
 
 Moge miec wiele metod 
 
@@ -25,11 +25,11 @@ Moge miec wiele metod
 
 Reprezentuje stan
 
-	Obiekt, Skladowa
+	Skladowa
 
 Mam swoje dzialanie 
 
-	Metoda, Obiekt
+	Obiekt, Klasa
 
 Przebywam w obiektach
 
@@ -45,7 +45,7 @@ Sluze do tworzenia kopii obiektow
 
 Moj stan moze sie zmieniac
 
-	Obiekt, Skladowa
+	Obiekt 
 
 Deklaruje metody
 

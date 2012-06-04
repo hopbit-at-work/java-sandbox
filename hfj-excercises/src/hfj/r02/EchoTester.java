@@ -7,7 +7,8 @@ package hfj.r02;
 public class EchoTester{
 	public static void main(String[] args){
 		Echo e1=new Echo();
-		Echo e2=e1;
+		// Echo e2=new Echo(); // poprawna odpowiedz
+		Echo e2=e1; // odpowiedz na pytanie dodatkowe
 		int x=0;
 		while(x<4){ // 0,1,2,3
 			e1.witaj();
