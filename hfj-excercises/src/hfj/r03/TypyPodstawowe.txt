@@ -28,4 +28,12 @@ typ: long
 ilosc bitow: 64 bity
 zakres wartosci: - "bardzo duzo" do + "bardzo duzo"
 
-... dokonczyc
+# liczby zmiennoprzecinkowe
+
+typ: float	
+ilosc bitow: 32 bity
+zakres wartosci: roznie
+
+typ: double	
+ilosc bitow: 64 bity
+zakres wartosci: roznie
