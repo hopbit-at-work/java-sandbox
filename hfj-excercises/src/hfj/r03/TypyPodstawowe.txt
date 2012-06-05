@@ -1,0 +1,31 @@
+# wartosci logiczne i znaki
+
+typ: boolean	
+ilosc bitow: zalezy od jvm
+zakres wartosci: true lub false
+
+typ: char	
+ilosc bitow: 16 bitow
+zakres wartosci: 0 do 65535
+
+# wartosci liczbowe (wszystkie ze znakiem)
+
+// liczby calkowite
+
+typ: byte 	
+ilosc bitow: 8 bitow
+zakres wartosci: -128 do 127
+
+typ: short 	
+ilosc bitow: 16 bitow
+zakres wartosci: -32768 do 32767
+
+typ: int 	
+ilosc bitow: 32 bitow
+zakres wartosci: -2 147 483 468 do 2 147 483 467
+
+typ: long 	
+ilosc bitow: 64 bity
+zakres wartosci: - "bardzo duzo" do + "bardzo duzo"
+
+... dokonczyc
