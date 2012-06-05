@@ -14,6 +14,14 @@ class TypyPodstawowe{
 		System.out.println("char c: "+c);
 		int z=x;
 		System.out.println("int z: "+z);
-	// dokonczyc...
+		boolean hipHopRulez=false;
+		System.out.println("boolean hipHopRulez: "+hipHopRulez);
+		boolean zasilanie;
+		zasilanie=jestCzadowo;
+		System.out.println("boolean zasilanie: "+zasilanie);
+		long duzy=9257892;
+		System.out.println("long duzy: "+duzy);
+		float f=32.4f;
+		System.out.println("float f: "+f);
 	}
 }
