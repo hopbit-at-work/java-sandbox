@@ -25,3 +25,8 @@ class TypyPodstawowe{
 		System.out.println("float f: "+f);
 	}
 }
+class TypyPodstawowe{
+	public static void main(String[] args){
+		// code
+	}
+}
