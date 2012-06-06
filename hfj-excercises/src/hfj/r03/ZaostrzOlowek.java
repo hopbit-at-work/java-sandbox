@@ -1,7 +1,7 @@
 package hfj.r03;
 class ZaostrzOlowek{
 	public static void main(String[] args){
-		int x=34.5; // ok
+		int x=34.5; // err
 		System.out.println("x:"+x);
 		boolean boo=x;//error
 		System.out.println("boo:"+boo);
@@ -17,7 +17,7 @@ class ZaostrzOlowek{
 		byte v=b;//ok
 		short n=12; //ok
 		v=n; //err
-		byte k=128;//ok
+		byte k=128;//err
 		int p=3*g+y;//ok
 	}
 }
