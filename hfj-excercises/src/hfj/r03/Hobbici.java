@@ -3,8 +3,10 @@
 /**
  * Pierwsza wersja programu
  *
- * Ten program powinien skopmilowac sie 
- * i uruchomic bez problemu;
+ * Program faktycznie udało sie 
+ * skopilowac, ale polecial 
+ * IndexOutOfBoundException :/ 
+ * poprawilem, teraz powinno juz dzialac
  *
  * Wyniki jakie powinien dac kolejno to :
  * Frodo....
@@ -15,7 +17,7 @@
 class Hobbici{
   String imie;
   public static void main(String[] args){
-    Hobbici[] h = new Hobbici[3];
+    Hobbici[] h = new Hobbici[4];
     int z=0;
     while(z<4){
       z=z+1;
