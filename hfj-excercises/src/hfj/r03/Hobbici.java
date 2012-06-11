@@ -1,26 +1,26 @@
 //package hfj.r03;
 
 /**
- * Pierwsza wersja programu
+ * Wersja ostateczne
  *
- * Program faktycznie udało sie 
- * skopilowac, ale polecial 
- * IndexOutOfBoundException :/ 
- * poprawilem, teraz powinno juz dzialac
+ * Wprawdzie program kompiluje sie 
+ * i bangla, ale wyniki sa hmmmm
+ * malo intuicyjne;
  *
- * Wyniki jakie powinien dac kolejno to :
- * Frodo....
- * Sam .....
- * Bilbo....
+ * Poprawilem, zeby program byl 
+ * 'bardziej' intuicyjny
  *
+ * Wyniki jakie powinien dac kolejno to:
+ * Bilbo
+ * Frodo
+ * Sam 
  */
 class Hobbici{
   String imie;
   public static void main(String[] args){
-    Hobbici[] h = new Hobbici[4];
+    Hobbici[] h = new Hobbici[3];
     int z=0;
-    while(z<4){
-      z=z+1;
+    while(z<3){
       h[z]=new Hobbici();
       h[z].imie="Bilbo";
       if(z==1){
@@ -31,6 +31,7 @@ class Hobbici{
       }
       System.out.print(h[z].imie + " jest ");
       System.out.println("dobrym imieniem dla hobbita");
+      z=z+1;
     }
   }
 }
