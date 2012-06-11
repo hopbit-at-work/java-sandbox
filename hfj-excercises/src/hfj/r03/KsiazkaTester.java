@@ -19,7 +19,7 @@ class KsiazkaTester{
     while(x<3){
       System.out.print(mojeKsiazki[x].tytul);
       System.out.print(", autor ");
-      System.out.println(mojeKsiazki[x].Autor;
+      System.out.println(mojeKsiazki[x].Autor);
       x=x+1;
     }// while
   }// main
