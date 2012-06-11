@@ -3,6 +3,12 @@
  * Trzecia wersja klasy,
  * Okazalo sie, ze zapomnialem 
  * zainicjalizowac referencje w tablicy :/
+ *
+ * Nareszcie program nie tylko sie 
+ * kompiluje ale i uruchamia bez bledow;
+ *
+ * Jak widac bledy czasu uruchomienia
+ * sa bardziej wredne niz bledy kompilacji 
  */
 class KsiazkaTester{
   public static void main(String[] args){
