@@ -1,10 +1,8 @@
 //package hfj.r03;
 /**
- * Pierwsza wersja klasy,
- * nie skompiluje sie poniewaz 
- * zostala niewlasciwa 
- * nazwa zmiennej Autor 
- * powinno byc autor
+ * Druga wersja klasy,
+ * teraz wszystko powinno juz 
+ * banglac tak jak trzeba :)
  */
 class KsiazkaTester{
   public static void main(String[] args){
@@ -19,7 +17,7 @@ class KsiazkaTester{
     while(x<3){
       System.out.print(mojeKsiazki[x].tytul);
       System.out.print(", autor ");
-      System.out.println(mojeKsiazki[x].Autor);
+      System.out.println(mojeKsiazki[x].autor);
       x=x+1;
     }// while
   }// main
