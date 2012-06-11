@@ -1,13 +1,16 @@
 //package hfj.r03;
 /**
- * Druga wersja klasy,
- * teraz wszystko powinno juz 
- * banglac tak jak trzeba :)
+ * Trzecia wersja klasy,
+ * Okazalo sie, ze zapomnialem 
+ * zainicjalizowac referencje w tablicy :/
  */
 class KsiazkaTester{
   public static void main(String[] args){
     Ksiazka[] mojeKsiazki = new Ksiazka[3];
     int x=0;
+    mojeKsiazki[0]=new Ksiazka();
+    mojeKsiazki[1]=new Ksiazka();
+    mojeKsiazki[2]=new Ksiazka();
     mojeKsiazki[0].tytul="Czterej koderzy iJava";
     mojeKsiazki[1].tytul="Java nocy letniej";
     mojeKsiazki[2].tytul="Java. Receptury";
